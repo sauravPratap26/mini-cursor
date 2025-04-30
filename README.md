@@ -10,18 +10,6 @@ This project uses the UV package manager. Follow the instructions below to set u
     pip install uv
     ```
 
-2.  Use UV to create a virtual environment:
-
-    ```bash
-    uv venv
-    ```
-
-3.  Activate the virtual environment:
-
-    ```bash
-    source .venv/bin/activate
-    ```
-
 ## Install Packages
 
 Install the required packages using the following command:
