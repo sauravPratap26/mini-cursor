@@ -1,0 +1,12 @@
+[project]
+name = "minicursor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-core>=0.3.56",
+    "langsmith>=0.3.38",
+    "openai>=1.76.0",
+    "python-dotenv>=1.1.0",
+]
